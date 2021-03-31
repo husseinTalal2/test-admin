@@ -1,7 +1,5 @@
 # Getting Started with the react-admin app
 
-# yarn server
-to start the api
+run the command "yarn server" to run the API, then run "yarn start" to start the app
 
-# yarn start
-to start the react app
+
